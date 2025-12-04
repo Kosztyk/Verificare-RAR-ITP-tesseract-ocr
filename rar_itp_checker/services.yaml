@@ -1,3 +1,0 @@
-check_now:
-  name: Force ITP Check
-  description: Immediately recheck the ITP status using the current VIN

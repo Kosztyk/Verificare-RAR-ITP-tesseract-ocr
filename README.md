@@ -2,7 +2,8 @@
 
 # Integrarea Verificare-RAR-ITP pentru Home Assistant
 
-**Pentru ca solutia online initiala de citire a codului anti-robot (OCR) functiona cu mari probleme am hotarat sa imlementez o solutie locala tesseract-ocr-api.**
+**Pentru ca solutia online initiala de citire a codului anti-robot (OCR) functiona cu mari probleme integrarea a fost migrata catre o solutie locala anti-robot tesseract-ocr-api.**
+
 **Poate fi instalata folosind docker containers REPO: https://github.com/Kosztyk/tesseract-ocr-api sau Homeassistant addons disponibil in https://github.com/Kosztyk/homeassistant-addons**
 
 Aceasta integrare verifica valabilitatea Inspectiei Tehnice Periodice pe baza Seriei VIN.
